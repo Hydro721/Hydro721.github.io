@@ -1,6 +1,3 @@
-# My Portfolio
-
-## About me
 👋 Hi!  
 
 I'm a software developer on a mission to build web applications that make the world a better place.
