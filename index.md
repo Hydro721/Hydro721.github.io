@@ -4,7 +4,7 @@ I'm a software developer on a mission - to build web applications that make a me
 
 <br>
 ## Tech Stack
-Python, Django, Flask, JavaScript, HTML, CSS, SaSS, SQL, Git, Web Applications
+Python, Django, Flask, Jinja, JavaScript, HTML, CSS, SaSS, SQL, Git, Web Applications, Object Relational Mapping (ORM)
 
 <br>
 ## Projects I've built
