@@ -1,6 +1,6 @@
 👋 Hi!  
 
-I'm a software developer on a mission - building web applications that make the world a better place.
+I'm a software developer on a mission - to build web applications that make a meaningful impact in people's lives.
 
 <br>
 ## Tech Stack
