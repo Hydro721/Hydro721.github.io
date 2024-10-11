@@ -3,4 +3,4 @@
 ## About me
 
 ## Project I've built
--[E-bay replica][https://youtu.be/q2ZC7i7GMYE]
+- [E-bay replica][https://youtu.be/q2ZC7i7GMYE]
