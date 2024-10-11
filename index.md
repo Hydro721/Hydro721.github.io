@@ -24,10 +24,13 @@ Python, Django, Flask, Javascript, HTML, CSS, SaSS, SQL, Git, Web Applications
 ### Email Web Client
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vfWwBAzs2wI" frameborder="0" allowfullscreen></iframe>
 
-
 <br><br>
 ### Google Search Replica
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zX6YyeMfVPU" frameborder="0" allowfullscreen></iframe>
 
+<br><br>
+### Contact Me
+Twitter / X: [@hydro777](https://x.com/hydro7277)
+tallownutrition@gmail.com
 
 
