@@ -2,6 +2,7 @@
 
 I'm a software developer building web applications that make the world a better place.
 
+<br>
 ## Tech Stack
 Python, Django, Flask, Javascript, HTML, CSS, SaSS, SQL, Git, Web Applications
 
