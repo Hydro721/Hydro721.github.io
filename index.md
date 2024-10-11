@@ -1,7 +1,9 @@
-# The Portfolio of Hydro721
+# My Portfolio
 
 ## About me
-I'm a software developer with a mission for building web applications that make the world a better place.
+👋 Hi!  
+
+I'm a software developer on a mission to build web applications that make the world a better place.
 
 <br><br>
 ## My Projects
