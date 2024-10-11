@@ -5,8 +5,10 @@
 
 I'm a software developer on a mission to build web applications that make the world a better place.
 
-<br><br>
+<br>
 ## Projects I've built
+
+<br><br>
 ### Ebay.com Replica
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q2ZC7i7GMYE" frameborder="0" allowfullscreen></iframe>
 
