@@ -31,7 +31,7 @@ Python, Django, Flask, Jinja, JavaScript, HTML, CSS, SaSS, SQL, Git, Web Applica
 
 <br><br>
 ### Contact Me
-Twitter / X: [@hydro777](https://x.com/hydro7277)
-tallownutrition@gmail.com
+- Twitter / X: [@hydro777](https://x.com/hydro7277)
+- TallowNutrition@gmail.com
 
 
