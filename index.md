@@ -24,5 +24,5 @@ I'm a software developer on a mission to build web applications that make the wo
 
 
 <br><br>
-### Google Search Replica
+### Automated Shopping List & Recipe App
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CEq72dox6dY" frameborder="0" allowfullscreen></iframe>
