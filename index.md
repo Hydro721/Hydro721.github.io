@@ -9,10 +9,11 @@ Python, Django, Flask, Javascript, HTML, CSS, SaSS, SQL, Git, Web Applications
 <br>
 ## Projects I've built
 
-<br><br>
+<br>
 ### Recipe App for Minimalists
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CEq72dox6dY" frameborder="0" allowfullscreen></iframe>
 
+<br><br>
 ### Ebay.com Replica
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q2ZC7i7GMYE" frameborder="0" allowfullscreen></iframe>
 
